@@ -1,5 +1,12 @@
 body {
-    color: white;
-    background: rgb(35, 150, 35);
+    color: rgb(16, 14, 153);
+    background: rgb(0, 0, 0);
     margin: 0px;
+}
+
+header{
+border-bottom: solid 2px rgb(16, 14, 153)
+padding : 20px;
+font-size: 32ppx;
+color: 
 }
