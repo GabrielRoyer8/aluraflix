@@ -7,7 +7,7 @@ body {
 
 header {
     border-bottom: solid 8px rgb(42, 9, 226)
-     padding: 20px;
+    padding: 20px;
     font-size: 32px;
     color: rgb(42, 9, 226)
 }
@@ -31,4 +31,8 @@ font-size: 40px;
 
 p {
 font-size: 25px;
+}
+
+img {
+height: 200px;
 }
