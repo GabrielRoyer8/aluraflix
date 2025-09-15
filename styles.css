@@ -34,9 +34,7 @@ p {
 font-size: 25px;
 }
 
-img {
-height: 200px;
-}
+
 
 .categoria-videos{
     display:flex;
@@ -44,7 +42,16 @@ height: 200px;
     gap: 10px;
 }
 
-categoria.{
-
+.categoria{
+padding-left: 20px;
+padding-right: 20px;
     
+}
+.categoria-videos img{
+opacity: 0.5;
+height: 200px;
+}
+
+.categoria-videos img:hover{
+    opacity: 1.0;
 }
